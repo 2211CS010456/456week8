@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/456week8/static/css/main.ff02f4b5.css",
+    "main.js": "/456week8/static/js/main.69e053e8.js",
+    "index.html": "/456week8/index.html",
+    "main.ff02f4b5.css.map": "/456week8/static/css/main.ff02f4b5.css.map",
+    "main.69e053e8.js.map": "/456week8/static/js/main.69e053e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.69e053e8.js"
+  ]
+}
